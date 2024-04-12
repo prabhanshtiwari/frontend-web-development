@@ -1,0 +1,12 @@
+h1{
+    color: red;
+    font-weight: bolder;
+}
+p{
+    color: green; /* this is comment */
+}
+
+/* 
+This is multi-line comment
+yes it has multiple lines
+ */
