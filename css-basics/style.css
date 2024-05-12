@@ -1,12 +1,29 @@
-h1{
-    color: red;
-    font-weight: bolder;
-}
-p{
-    color: green; /* this is comment */
+*{
+    background-color: rgb(107, 156, 81);
 }
 
+
+
+
+.heading{
+    color: green;
+    font-weight: bolder;
+}
+#middle , p{
+    color: blue; /* this is comment */
+}
+h1 , p{
+    font-size: xx-large;
+}
 /* 
 This is multi-line comment
 yes it has multiple lines
  */
+
+
+/* 
+1. tag selector --> h1
+2. class selector -->  .heading
+3. id selector --> #middle
+4. Universal selector --> * is used Applicable on all elements
+*/
